@@ -27,4 +27,9 @@ TO RUN SCRIPT OPEN TERMINAL IN FOLDER AND TYPE
 
 ./ABASminerSolo.sh
 
+or
+
+./ABASminerPool.sh
+
+#edit the ABASminerSolo.sh or ABASminerPool.sh file to edit your settings!!!
 It should run!
